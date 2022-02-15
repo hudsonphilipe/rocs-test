@@ -51,6 +51,7 @@ backend side.
 ## Submission
 - Create an account at **GitLab** (it's free)
 - Fork the repository `rocs-test`.
+- Please make your repository private and add @ryanairLabs account as contributor
 - We want to see the evolution of your code, so meaningful commits are welcome.
 - Please note that the application will be executed on other machines, so don't keep local references.
 - There is no time limit to complete the exercise. But we recommend to spend around 4 hours.
