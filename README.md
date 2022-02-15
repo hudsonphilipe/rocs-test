@@ -54,7 +54,7 @@ backend side.
 - Please make your repository private and add @ryanairLabs account as contributor
 - We want to see the evolution of your code, so meaningful commits are welcome.
 - Please note that the application will be executed on other machines, so don't keep local references.
-- There is no time limit to complete the exercise. But we recommend to spend around 4 hours.
+- There is no time limit to complete the exercise. But we recommend to spend around 4 hours of hands-on work, the expectation since the coding excercise is sent by email is having it in around one week.
 
 Please include a `README_Candidate.md` file to be used for any other consideration or explanation that the candidate wants to highlight about the design/implementation process.
 
