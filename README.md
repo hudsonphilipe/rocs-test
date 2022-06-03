@@ -1,4 +1,4 @@
-# Ryanair TravelLabs - ROCS Hiring Test Madrid - Tycoon Factory
+# Ryanair TravelLabs - ROCS Hiring Test - Tycoon Factory
 
 ## Scenario Description
 **Tycoon Co.** is a factory in which the production is realized by automated android workers. You need to create an application 
