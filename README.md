@@ -43,11 +43,11 @@ backend side.
 * Use any frameworks and libraries that you consider convenient.
 
 ## Bonus / Nice to Have
-* High test coverage is a plus.
 * Organize the code in different projects if required is a plus.
 * Use of Domain-Driven Design concepts only if you have experience with it is a plus.
 * Following TDD is welcome only if you have experience with it (you can demonstrate doing smaller commits to reflect the steps of the work)	
 * Persistence layer is not mandatory, but it will be a plus the use of any ORM (specially Entity Framework).
+* High test coverage is a plus.
 
 ## Submission
 - Create an account at **GitLab** (it's free)
