@@ -35,18 +35,19 @@ console application that reads keyboard inputs, or any other approach (does not 
 backend side.
 
 ## What we are looking for?
- * Perform as much test coverage as possible. At least Unit Tests are mandatory.
- * Coding in English.
- * Use of Domain-Driven Design concepts is very welcome.
- * Clean Code.
- * SOLID Principles.
- * Separation of concerns.
- * Organize the code in different projects as your convenience.
- * Use any frameworks and libraries that you consider convenient.
+* Coding in English.
+* Clean Code.
+* SOLID Principles.
+* Separation of concerns.
+* Perform some unit tests
+* Use any frameworks and libraries that you consider convenient.
 
-## Bonus
- * Following TDD is welcome (you can demonstrate doing smaller commits to reflect the steps of the work)
- * You don't need to implement the persistence layer, but it will be welcome the use of any ORM (like Entity Framework).
+## Bonus / Nice to Have
+* High test coverage is a plus.
+* Organize the code in different projects if required is a plus.
+* Use of Domain-Driven Design concepts only if you have experience with it is a plus.
+* Following TDD is welcome only if you have experience with it (you can demonstrate doing smaller commits to reflect the steps of the work)	
+* Persistence layer is not mandatory, but it will be a plus the use of any ORM (specially Entity Framework).
 
 ## Submission
 - Create an account at **GitLab** (it's free)
