@@ -50,11 +50,12 @@ backend side.
 * High test coverage is a plus.
 
 ## Submission
-- Create an account at **GitLab** (it's free)
+- Create an account at **Github** (it's free)
 - Fork the repository `rocs-test`.
-- Please make your repository private and add @ryanairLabs account as 'developer'
+- We advise you to keep the repository as private, you will have in the email by the recruiter a list of collaborators to add to your project
 - We want to see the evolution of your code, so meaningful commits are welcome.
 - Please note that the application will be executed on other machines, so don't keep local references.
+- Don't forget to notify the recruiter once your repo is ready to be reviewed!
 
 Please include a `README_Candidate.md` file to be used for any other consideration or explanation that the candidate wants to highlight about the design/implementation process. Last but not least, include the URL of your forked repository in your email notifying Ryanair your code is ready to be reviewed.
 
